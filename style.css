@@ -1,0 +1,10 @@
+
+#parent{
+    display: flex;
+    flex-direction: row;
+}
+#child{
+    padding-top: 180px;
+    margin: 10px;
+    color: aqua;
+}
